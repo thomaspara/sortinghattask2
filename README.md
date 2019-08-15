@@ -1,2 +1,2 @@
-# sortinghattask2
+# Sorting Hat Task2
 Deduplication
