@@ -1,0 +1,17 @@
+[2019-07-25 10:12:02.423179]	removed / in:2 51 Spay/Neuter
+[2019-07-25 10:12:02.433838]	removed / in:2 51 Cat/Kitten (outcome)
+[2019-07-25 10:12:26.149841]	removed / in:64 134 STATE/COUNTRY ID
+[2019-07-25 10:13:42.811955]	removed / in:2 51 Spay/Neuter
+[2019-07-25 10:13:42.822574]	removed / in:2 51 Cat/Kitten (outcome)
+[2019-07-25 10:14:06.608046]	removed / in:64 134 STATE/COUNTRY ID
+[2019-07-25 10:16:09.087787]	removed / in:6 241 Type of Building/House
+[2019-07-25 10:18:03.297490]	removed / in:2 51 Spay/Neuter
+[2019-07-25 10:18:03.305651]	removed / in:2 51 Cat/Kitten (outcome)
+[2019-07-25 10:18:27.019147]	removed / in:64 134 STATE/COUNTRY ID
+[2019-07-25 10:20:29.626195]	removed / in:6 241 Type of Building/House
+[2019-07-25 10:36:57.946589]	removed / in:2 51 Spay/Neuter
+[2019-07-25 10:36:57.957858]	removed / in:2 51 Cat/Kitten (outcome)
+[2019-07-25 10:37:30.576043]	removed / in:64 134 STATE/COUNTRY ID
+[2019-07-25 10:39:36.923518]	removed / in:6 241 Type of Building/House
+[2019-07-25 10:45:44.423537]	Opening Failed. File: ./SH_data/datasets/kiva_loans.csv
+[2019-07-25 10:45:44.966560]	Opening Failed. File: ./SH_data/datasets/loan_theme_ids.csv
