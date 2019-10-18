@@ -29,15 +29,18 @@ for f in file_list:
     df = pd.read_csv(f)
     uni = df[df.columns[0]].tolist()
     uni = [j_s(u) for u in uni]
+
     uni = list(set(uni))
     labels = []
     group_num = start_num
     for u in uni:
         group_num += 1
         labels.append([u, group_num, "c"])
+
     for label in labels:
         targets = ([ j_s(x) == label[0] for x in df[df.columns[0]] ])
         rows = df.index[targets]
+        if len(rows) < 2: continue 
         for row in rows:
             if (df.iloc[row]['group'] != -1) : 
                 continue
